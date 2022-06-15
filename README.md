@@ -34,5 +34,5 @@
 	<h2>Algorithms and Data Structures</h2>
 </div>
  1. Linked List Data Structures<br>
- 2. Stach Data Structures<br>
+ 2. Stack Data Structures<br>
  3. Tree Data Structures<br>
