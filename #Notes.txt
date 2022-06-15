@@ -1,7 +1,0 @@
-Materi:
-    - Array
-    - Array Multidimensi
-    - Loop
-    - Pointer
-    - Single Linked List
-    - Double Linked List
