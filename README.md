@@ -1,8 +1,8 @@
-<h1 align="center">UKTix</h1>
+<h1 align="center">Cashier</h1>
 
 <div align="center">
 	<p>
-		This is a prototype application for manage restaurant data using C++br>
+		This is a prototype application for manage restaurant data using C++<br>
 		(This program was built to fulfill college assignments)
 	</p>
 	<a href="https://t.me/ItsMeAsada">
