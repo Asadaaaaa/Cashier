@@ -2,7 +2,7 @@
 
 <div align="center">
 	<p>
-		This is a prototype application for manage restaurant data using C++<br>
+		This is a prototype application for manage restaurant data using C++ CLI <br>
 		(This program was built to fulfill college assignments)
 	</p>
 	<a href="https://t.me/ItsMeAsada">
